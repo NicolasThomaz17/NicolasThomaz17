@@ -16,6 +16,6 @@
 <a href="https://instagram.com/nicolas_thomaz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/NicolasThomaz17/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NicolasThomaz17/NicolasThomaz17/blob/output/github-contribution-grid-snake.svg)
 
   
